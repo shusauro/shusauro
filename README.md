@@ -1,30 +1,26 @@
-## Full-Stack Developer | Python Engineer | React Developer
+# Full-Stack Developer | Python Engineer | React Developer
 
-Разрабатываю веб-приложения, SaaS-платформы, автоматизированные сервисы и внутренние корпоративные системы. Работаю с цифровыми продуктами с 2018 года: от прототипирования и архитектуры до production-разработки, интеграций и поддержки.
+I develop web applications, SaaS platforms, automation services, and internal business systems. Since 2018, I have been working on digital products across the entire lifecycle — from prototyping and system architecture to production development, integrations, and long-term maintenance.
 
-Основной фокус: backend на Python, frontend на React, API-интеграции, автоматизация бизнес-процессов и AI-powered продукты.
-
+My primary focus areas are Python backend development, React frontend applications, API integrations, business process automation, and AI-powered products.
 
 ## About Me
 
-Я Full-Stack разработчик с инженерным подходом к созданию продуктов. Помогаю превращать идеи в надежные, масштабируемые и удобные цифровые решения.
+I am a Full-Stack Developer with an engineering-driven approach to building software products. I help transform ideas into reliable, scalable, and user-friendly digital solutions.
 
-Работаю на стыке backend, frontend и продуктовой логики: проектирую архитектуру, разрабатываю API, создаю интерфейсы, настраиваю инфраструктуру и автоматизирую процессы.
-
+My work spans backend systems, frontend applications, and product logic: designing architectures, building APIs, developing interfaces, setting up infrastructure, and automating workflows.
 
 ## Core Skills
 
-- Backend-разработка на Python
-- Frontend-разработка на React
-- Проектирование REST API
-- Разработка SaaS-платформ
-- Интеграция внешних сервисов и API
-- Автоматизация бизнес-процессов
-- Работа с базами данных
-- CI/CD и контейнеризация
-- Разработка AI-инструментов и современных цифровых продуктов
-
-
+* Python Backend Development
+* React Frontend Development
+* REST API Design and Development
+* SaaS Platform Development
+* Third-Party Service and API Integrations
+* Business Process Automation
+* Database Design and Management
+* CI/CD and Containerization
+* AI Tools and Modern Digital Product Development
 
 ## Tech Stack
 
@@ -81,7 +77,7 @@ Firebase
 
 ## Contacts
 
-- GitHub: [@shusauro](https://github.com/shusauro)
-- Email: [klinok28.02.00@gmail.com](mailto:klinok28.02.00@gmail.com)
+* GitHub: @shusauro
+* Email: [klinok28.02.00@gmail.com](mailto:klinok28.02.00@gmail.com)
 
 > Code is not just about solving problems. It's about creating opportunities.
